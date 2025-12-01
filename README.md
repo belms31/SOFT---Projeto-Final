@@ -47,13 +47,13 @@ Padrões de Projetos usados no Diagrama: Strategy, State e Observer.
  HOSPEDE
  * cancelarReserva()
  
-# Tecnologias usadas
+## Tecnologias usadas
   * Java 
   * JUnit 4
   * NetBeans
   * Padrões de Projeto
  
-# Autores
+## Autores
 * Maria Isabel da Silva 
 * Mariana R. Mendes
 
